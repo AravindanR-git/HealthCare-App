@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Verma",
+    "specialization": "Cardiologist",
+    "available": true,
+    "image": "https://i.pinimg.com/736x/f6/e8/ec/f6e8ece9caf75e2750551a6cc1dd4d87.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Neurologist",
+    "available": false,
+    "image": "https://thumbs.dreamstime.com/b/doctor-holding-clipboard-gesturing-vector-illustration-design-using-ai-tool-doctor-clip-art-359346385.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meera Nair",
+    "specialization": "Dermatologist",
+    "available": true,
+    "image": "https://png.pngtree.com/png-clipart/20250515/original/pngtree-a-cute-female-doctor-depicted-in-clipart-style-png-image_21008903.png"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arjun Sharma",
+    "specialization": "Orthopedic Surgeon",
+    "available": true,
+    "image": "https://media.gettyimages.com/id/479287689/vector/happy-doctor.jpg?s=612x612&w=gi&k=20&c=tKxODe25pFEKRXVxRFYKdabfjmks_deGzdfJSRAg4sg="
+  },
+  {
+    "id": 5,
+    "name": "Dr. Priya Kapoor",
+    "specialization": "Pediatrician",
+    "available": false,
+    "image": "https://i.pinimg.com/736x/af/da/df/afdadf665ba0aa7f487b93a197da8949.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Rajat Desai",
+    "specialization": "Oncologist",
+    "available": true,
+    "image": "https://www.kindpng.com/picc/m/228-2282602_transparent-doctor-clipart-clip-art-male-doctor-hd.png"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Kavita Iyer",
+    "specialization": "Gynecologist",
+    "available": false,
+    "image": "https://t3.ftcdn.net/jpg/10/01/16/94/360_F_1001169429_ZA6I0RkPvSqTAuUx9Xki67WPpzLNSMVy.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vikram Joshi",
+    "specialization": "ENT Specialist",
+    "available": true,
+    "image": "https://media.gettyimages.com/id/165798460/vector/young-doctor.jpg?s=612x612&w=gi&k=20&c=clVRsZUIUV1yl8xJhzJfJ8srjqHzojof69_yJ6pedkU="
+  }
+]

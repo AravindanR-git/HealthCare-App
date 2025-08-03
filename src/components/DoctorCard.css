@@ -1,0 +1,67 @@
+.doctor-card {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 280px;
+  margin: auto;
+  transition: box-shadow 0.3s ease;
+}
+
+.doctor-card:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.doctor-photo {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #e0f0ff;
+  margin-bottom: 12px;
+}
+
+.doctor-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #1d4ed8;
+  margin: 0;
+}
+
+.doctor-specialty {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 4px 0;
+}
+
+.doctor-status {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 6px 0;
+}
+
+.doctor-status.available {
+  color: green;
+}
+
+.doctor-status.unavailable {
+  color: red;
+}
+
+.profile-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #2563eb;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+.profile-button:hover {
+  background-color: #1e40af;
+}
